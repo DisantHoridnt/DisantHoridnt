@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrinceDisant
+- 👋 Hi, I’m Disant Prince Upadhyay
 - 👀 I’m interested in building new products that benefit humanity and help make the world a better place.
 - 🌱 I’m currently learning back end development
 - 💞️ I’m looking to collaborate on web apps, mobile apps
