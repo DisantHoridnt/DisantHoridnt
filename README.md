@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Disant Prince Upadhyay
+- 👋 Hi, I’m Disant Upadhyay
 - 👀 I’m interested in building new products that benefit humanity and help make the world a better place.
 
 <!---
