@@ -10,9 +10,6 @@
 
 <div align="center">
     <h3>I’m interested in building new products that benefit humanity and help make the world a better place.</h3>
-<!--     <p>
-        
-    </p> -->
 </div>
 
 <div align="center">
