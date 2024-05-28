@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="dist/github-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://github.com/PrinceDisant/PrinceDisant/blob/output/github-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <h2 align="center">💻 Programming Languages</h2>
