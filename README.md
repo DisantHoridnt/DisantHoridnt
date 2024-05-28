@@ -9,16 +9,10 @@
 </div>
 
 <div align="center">
-    <h2>🚀 About Me</h2>
-    <p>
-        In the serene and vibrant city of St. John's, Newfoundland, I, Disant Upadhyay, weave technology and purpose into every project I undertake. As a Senior Full-Stack Developer with over seven years of experience, my journey is a testament to my dedication to building robust, scalable web applications using a diverse array of technologies.
-    </p>
-    <p>
-        My expertise spans JavaScript, Python, Java, and a variety of frameworks such as React, Node.js, Django, and Angular. I excel in both SQL and NoSQL database management, and am adept at deploying and managing cloud-based solutions using AWS and Azure. My leadership style is humble and genuine, emphasizing mentorship, team collaboration, and agile project management, ensuring efficient and timely delivery of high-quality software solutions.
-    </p>
-    <p>
-        As a tech steward, I am deeply committed to creating solutions that are innovative, sustainable, and impactful. I believe in the power of technology to address real-world challenges and am driven by a mission to leverage my skills for societal good.
-    </p>
+    <h3>I’m interested in building new products that benefit humanity and help make the world a better place.</h3>
+<!--     <p>
+        
+    </p> -->
 </div>
 
 <div align="center">
