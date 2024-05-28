@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Disant+Upadhyay;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
     <p>
-        <img src="https://giphy.com/embed/vmQAsNXEgvItJxpgL4" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+        <img src="https://media.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen />
         <p><a href="https://giphy.com/gifs/tank-qr-code-art-vmQAsNXEgvItJxpgL4">via GIPHY</a></p>
     </p>
 </div>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/PrinceDisant/PrinceDisant/blob/output/github-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/PrinceDisant/PrinceDisant/output/github-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 <h2 align="center">💻 Programming Languages</h2>
