@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Disant+Upadhyay;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
     <p>
-        <iframe src="https://giphy.com/embed/vmQAsNXEgvItJxpgL4" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+        <img src="https://giphy.com/embed/vmQAsNXEgvItJxpgL4" width="478" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
         <p><a href="https://giphy.com/gifs/tank-qr-code-art-vmQAsNXEgvItJxpgL4">via GIPHY</a></p>
     </p>
 </div>
