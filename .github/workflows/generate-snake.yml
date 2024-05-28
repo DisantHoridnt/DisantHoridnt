@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -6,7 +6,6 @@ on:
   push:
     branches:
       - main  # Or the branch you want to trigger this action
-  workflow_dispatch:
 
 jobs:
   build:
@@ -16,16 +15,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Print GitHub User Name
-        run: echo "GitHub User: ${{ github.repository_owner }}"
-
-      - name: Print Outputs Path
-        run: echo "Outputs Path: dist/github-snake.svg dist/github-snake-dark.svg"
-
       - name: Generate Snake Animation
-        uses: Platane/snk@v3.0.0
+        uses: Platane/snk@v3
         with:
-          github_user_name: "PrinceDisant"
+          github_user_name: PrinceDisant
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -37,5 +30,3 @@ jobs:
           git add dist/github-snake.svg dist/github-snake-dark.svg
           git commit -m "Generate Snake Animation"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
