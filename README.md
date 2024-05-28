@@ -31,9 +31,11 @@
     </a>
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/PrinceDisant/PrinceDisant/output/github-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 <h2 align="center">💻 Programming Languages</h2>
 <div align="center">
