@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <h3>I’m interested in building new products that benefit humanity and help make the world a better place.</h3>
+    <h3>I am interested in building new products that benefit humanity and help make the world a better place.</h3>
 </div>
 
 <div align="center">
