@@ -73,6 +73,6 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceDisant&theme=github_dark" alt="Disant Upadhyay's GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceDisant&theme=merko" alt="Disant Upadhyay's Contribution Streak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DisantDisant&theme=github_dark" alt="Disant Upadhyay's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DisantDisant&theme=merko" alt="Disant Upadhyay's Contribution Streak"/>
 </div>
