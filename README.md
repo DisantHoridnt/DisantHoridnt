@@ -21,9 +21,9 @@
         <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 <!--     <a href="https://soliditydeveloper.ca/"> -->
-        <a href="https://rebl.ai/">
+<!--         <a href="https://rebl.ai/">
         <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Website"/>
-    </a>
+    </a> -->
 </div>
 
 <picture>
