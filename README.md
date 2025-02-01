@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </div>
 
-<h2 align="center">🐧 Linux + Low-Level Systems Design</h2>
+<h2 align="center">🐧</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
     <img src="https://img.shields.io/badge/Low--Level%20Systems%20Design-000000?style=for-the-badge&logo=low-level-systems-design&logoColor=white" alt="Low-Level Systems Design"/>
